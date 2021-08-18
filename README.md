@@ -5,7 +5,7 @@
 - 👋 I’m @SrilakshmiSripathi
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Big Data framework, MLOps, AWS
-- 💞️ I’m looking to collaborate on Medical data analysis projects and/or ML projects
+- 💞️ I’m looking to collaborate on data analysis projects, ML projects or OpeSource projects
 - 📫 How to reach me [Email](sripathi.srilakshmi@gmail.com)
                      [LinkedIn](https://www.linkedin.com/in/sripathisrilakshmi/)
 
