@@ -13,7 +13,7 @@
 
 
 
-#### My Streak stats
+# My Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SrilakshmiSripathi&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 # Programming languages I have used but not limited to
