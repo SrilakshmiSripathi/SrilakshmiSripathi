@@ -4,13 +4,13 @@
 
 - 👋 I’m @SrilakshmiSripathi.
 - 👀 I’m interested in Data Analytics and Data Science.
+- 👌 I'm experinced in Software testing, Writing test cases, and Documentation(Ya! that thing everybody hates)
 - 🌱 I’m currently learning Big Data framework, MLOps, AWS.
 - 💞️ I’m looking to collaborate on data analysis projects, ML projects, or OpenSource projects.
 - 📫 How to reach me [Email](sripathi.srilakshmi@gmail.com)
                      [LinkedIn](https://www.linkedin.com/in/sripathisrilakshmi/)
-
+- I'm 🐒 ideas-wise, 🐎 spirit-wise, 🐜 work-wise, 🐬 trust-wise
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SrilakshmiSripathi&label=Views" alt="SrilakshmiSripathi"/> </p>
-
 
 
 # My Streak
