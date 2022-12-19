@@ -31,3 +31,9 @@ Dashboard are created with the help of Developer @anuraghazra
 ![Views](https://rushter.com/counter.svg)
 
 --->
+
+<html>
+    <head>
+        <meta name="google-site-verification" content="5ex9pmW4jZRXupI8cfXFxWx7dpexVDsizingpwpkaeI" />
+    </head>
+</html>
