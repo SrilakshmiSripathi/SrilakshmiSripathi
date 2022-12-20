@@ -1,39 +1,36 @@
-# Hello there!
+<!--
+ Copyright (c) 2022 Srilakshmi Sripathi
+ 
+ This software is released under the MIT License.
+ https://opensource.org/licenses/MIT
+-->
 
-#### You found part of my code stash, Welcome
+<h1 align="center"> Hello there! </h1>
+<h6>You found (part of) my code stash, welcome</h6>
+<meta name="google-site-verification" content="5ex9pmW4jZRXupI8cfXFxWx7dpexVDsizingpwpkaeI" />
+<h1 >
+<div>I'm Srilakshmi Sripathi</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=800&pause=1000&color=2B86F2&width=435&lines=Newbie+Full+Stack+developer;Interested+in+Open+Source+projects;Experienced+Software+tester" alt="Typing SVG" /></a>
+</h1>
+<p align = "center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=SrilakshmiSripathi&theme=tokyonight_duo&hide_border=true" alt ="GitHub Streaks"/>
+</p>
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=srilakshmisripathi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
 
-- 👋 I’m @SrilakshmiSripathi.
-- 👀 I’m interested in Data Analytics and Data Science.
-- 👌 I'm experinced in Software testing, Writing test cases, and Documentation(Ya! that thing everybody hates)
-- 🌱 I’m currently learning Big Data framework, MLOps, AWS.
-- 💞️ I’m looking to collaborate on data analysis projects, ML projects, or OpenSource projects.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sripathisrilakshmi/)
-- I'm 🐒 ideas-wise, 🐎 spirit-wise, 🐜 work-wise
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SrilakshmiSripathi&label=Views" alt="SrilakshmiSripathi"/> </p>
+</p>
 
-
-# My Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SrilakshmiSripathi&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-
-# Programming languages used
-###### But not limited to
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrilakshmiSripathi&layout=compact)](https://github.com/SrilakshmiSripathi/SrilakshmiSripathi/)
-
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrilakshmiSripathi&langs_count=8)](https://github.com/SrilakshmiSripathi/SrilakshmiSripathi/)
-
-SrilakshmiSripathi/SrilakshmiSripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-Dashboard are created with the help of Developer @anuraghazra
-![Views](https://rushter.com/counter.svg)
-
---->
-
-<html>
-    <head>
-        <meta name="google-site-verification" content="5ex9pmW4jZRXupI8cfXFxWx7dpexVDsizingpwpkaeI" />
-    </head>
-</html>
+<h4> Programming languages used</h4>
+<h6>But not limited to</h6>
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrilakshmiSripathi&layout=compact" alt="Languages Used" />
+</p>
+<p align="center">
+<a href="mailto:sripathi.srilakshmi@gmail.com">  Email  </a>  |  
+<a href="https://srilakshmisripathi.github.io"> Website </a> 
+</p>
+</p>
+<div align="center">
+<img src="https://img.shields.io/github/stars/SrilakshmiSripathi?style=social", alt ="stars"/>
+<img src="https://komarev.com/ghpvc/?username=SrilakshmiSripathi&label=Views", alt="profile views"/>
+</div>
