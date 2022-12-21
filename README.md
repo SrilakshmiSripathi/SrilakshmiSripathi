@@ -10,7 +10,7 @@
 <meta name="google-site-verification" content="5ex9pmW4jZRXupI8cfXFxWx7dpexVDsizingpwpkaeI" />
 <h1 >
 <div>I'm Srilakshmi Sripathi</div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=800&pause=1000&color=2B86F2&width=435&lines=Newbie+Full+Stack+developer;Interested+in+Open+Source+projects;Experienced+Software+tester" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=800&pause=1000&color=2B86F2&width=435&lines=Newbie+Full+Stack+Developer;Interested+in+Open+Source+Projects;Experienced+Software+Tester;Invested+in+Learning+New+Technologies;" alt="Typing SVG" /></a>
 </h1>
 <p align = "center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=SrilakshmiSripathi&theme=tokyonight_duo&hide_border=true" alt ="GitHub Streaks"/>
