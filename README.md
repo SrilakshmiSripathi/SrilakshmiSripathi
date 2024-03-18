@@ -13,13 +13,6 @@ I'm Srilakshmi Sripathi <br>
 </h1>
 <meta name="google-site-verification" content="5ex9pmW4jZRXupI8cfXFxWx7dpexVDsizingpwpkaeI" />
 
-<p align = "center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=SrilakshmiSripathi&theme=tokyonight_duo&hide_border=true" alt ="GitHub Streaks"/>
-</p>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=srilakshmisripathi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
-</p>
-
 <h4> Programming languages used</h4>
 <h6>But not limited to</h6>
 <p align = "center">
