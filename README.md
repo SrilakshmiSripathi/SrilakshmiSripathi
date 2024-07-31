@@ -9,7 +9,7 @@
 <h1 align="center">  
 Hello there!<br>
 I'm Srilakshmi Sripathi <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=800&pause=1000&color=2B86F2&width=435&lines=Experienced Full+Stack+Developer;Interested+in+Open+Source+Projects;Experienced+Software+Tester;Invested+in+Learning+New+Technologies;" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=800&pause=1000&color=2B86F2&width=435&lines=Experienced+Full+Stack+Developer;Interested+in+Open+Source+Projects;Experienced+Software+Tester;Invested+in+Learning+New+Technologies;" alt="Typing SVG" /></a> 
 </h1>
 <meta name="google-site-verification" content="5ex9pmW4jZRXupI8cfXFxWx7dpexVDsizingpwpkaeI" />
 
