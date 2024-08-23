@@ -21,7 +21,7 @@ I'm Srilakshmi Sripathi <br>
 <p align="center">
 <a href="mailto:sripathi.srilakshmi@gmail.com"> Email </a>  |  
 <a href="https://srilakshmisripathi.github.io"> Website </a> |
-<a href="https://www.linkedin.com/in/srilakshmi-sripathi"> LinkedIn </a> 
+<a href="https://www.linkedin.com/in/srilakshmisripathi/"> LinkedIn </a> 
 
 </p>
 </p>
