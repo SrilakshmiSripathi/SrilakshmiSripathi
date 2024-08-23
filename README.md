@@ -20,7 +20,9 @@ I'm Srilakshmi Sripathi <br>
 </p>
 <p align="center">
 <a href="mailto:sripathi.srilakshmi@gmail.com"> Email </a>  |  
-<a href="https://srilakshmisripathi.github.io"> Website </a> 
+<a href="https://srilakshmisripathi.github.io"> Website </a> |
+<a href="https://www.linkedin.com/in/srilakshmi-sripathi"> LinkedIn </a> 
+
 </p>
 </p>
 <div align="center">
