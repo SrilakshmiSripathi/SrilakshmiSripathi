@@ -3,7 +3,7 @@
  
  This software is released under the MIT License.
  https://opensource.org/licenses/MIT
--->
+
 
 
 <h1 align="center">  
@@ -29,3 +29,5 @@ I'm Srilakshmi Sripathi <br>
 <img src="https://img.shields.io/github/stars/SrilakshmiSripathi?style=social", alt ="stars"/>
 <img src="https://komarev.com/ghpvc/?username=SrilakshmiSripathi&label=Views", alt="profile views"/>
 </div>
+
+-->
