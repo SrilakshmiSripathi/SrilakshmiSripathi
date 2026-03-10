@@ -3,9 +3,9 @@
 
 | WHAT | WHEN | WHY |
 | :---: | :---: | :---: |
-| Terraform | Cert Final (Deadline March 21st) | Overlaps with everthing I am doing |
-| Nvidia | Cert Final (Deadline March 28th) | My Interest |
-| HelixScale | Technology Soup (Deadline March 28th) | **My Interest** |
+| Terraform | Cert (Deadline March 21st) | Center Of everything I am aiming - just cant ignore |
+| Nvidia | Cert (Deadline March 28th) | Chasing curiousity cat |
+| HelixScale | Technology Soup (Deadline March 28th) | **Reinforcement Learning** |
 
 
 
