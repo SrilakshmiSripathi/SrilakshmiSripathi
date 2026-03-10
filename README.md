@@ -1,3 +1,14 @@
+
+# Current Sprint - March 2026
+
+| WHAT | WHEN | WHY |
+| :---: | :---: | :---: |
+| Terraform | Cert Final (Deadline March 21st) | Overlaps with everthing I am doing |
+| Nvidia | Cert Final (Deadline March 28th) | My Interest |
+| HelixScale | Technology Soup (Deadline March 28th) | **My Interest** |
+
+
+
 <!--
  Copyright (c) 2022 Srilakshmi Sripathi
  
